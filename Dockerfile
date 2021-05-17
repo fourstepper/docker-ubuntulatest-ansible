@@ -1,5 +1,5 @@
-FROM ubuntu:20.04
-LABEL maintainer="Jeff Geerling"
+FROM ubuntu:rolling
+LABEL maintainer="Robin Opletal"
 
 ENV DEBIAN_FRONTEND noninteractive
 
